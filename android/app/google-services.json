@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "30602462028",
+    "firebase_url": "https://mybodypass-notifications.firebaseio.com",
+    "project_id": "mybodypass-notifications",
+    "storage_bucket": "mybodypass-notifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30602462028:android:515386134f3a219eebc5e9",
+        "android_client_info": {
+          "package_name": "com.mybodypass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30602462028-a6p3pqve2b1a2goe20d1uv4lldh95kpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHeHZ6bDf_TB9fxfo3E0EkL5EPRnfWNZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30602462028-a6p3pqve2b1a2goe20d1uv4lldh95kpl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "30602462028-mrpt74utlm2qjn813eet39ktgbfqhu9s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "de.mysafetycheck.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30602462028:android:49e7d67bb81f0d71ebc5e9",
+        "android_client_info": {
+          "package_name": "me.datesafe.datecheck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30602462028-a6p3pqve2b1a2goe20d1uv4lldh95kpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHeHZ6bDf_TB9fxfo3E0EkL5EPRnfWNZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30602462028-a6p3pqve2b1a2goe20d1uv4lldh95kpl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "30602462028-mrpt74utlm2qjn813eet39ktgbfqhu9s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "de.mysafetycheck.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
